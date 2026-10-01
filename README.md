@@ -1,4 +1,5 @@
-## Hi there 👋
+<img width="2400" height="960" alt="Dakatraaa (2)" src="https://github.com/user-attachments/assets/0f0bddce-b5c6-4e72-902b-3fd3e785786e" />
+
 
 <!--
 **Dakatraaa/Dakatraaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
